@@ -4,7 +4,7 @@
 [My Profile link](https://github.com/saichandugampa)
 
 ## Team Member:  Satishkumar Mandapalli
-
+[My Profile](https://github.com/mandapallisatish64)
 ## Team Member:  Jeevan Reddy Mure
 Jeevan will add content here.
 
