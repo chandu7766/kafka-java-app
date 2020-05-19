@@ -1,7 +1,7 @@
 # kafka-java-app
 
 ## Team Lead : Sai Chandu Gampa
-[My Profile link] (https://github.com/saichandugampa)
+[My Profile link](https://github.com/saichandugampa)
 
 ## Team Member:  Satishkumar Mandapalli
 
