@@ -6,7 +6,7 @@
 ## Team Member:  Satishkumar Mandapalli
 [My Profile](https://github.com/mandapallisatish64)
 ## Team Member:  Jeevan Reddy Mure
-Jeevan will add content here.
+[My profile link](https://github.com/jeevanreddymure)
 
 ## Team Member: RethimaReddy Polam
 [My Profile link](https://github.com/Rethima-Reddy)</br>
