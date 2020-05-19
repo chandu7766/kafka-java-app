@@ -9,5 +9,5 @@
 [My profile link](https://github.com/jeevanreddymure)
 
 ## Team Member: RethimaReddy Polam
-[My Profile link](https://github.com/Rethima-Reddy)</br>
-Rethima will add content here.
+[Rethima's Profile link](https://github.com/Rethima-Reddy)</br>
+
