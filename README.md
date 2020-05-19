@@ -3,7 +3,7 @@
 ## Team Lead : Sai Chandu Gampa
 Chandu will add content here
 
-## Team Member: Satishkumar Mandapalli
+## Team Member:  Satishkumar Mandapalli
 Satish will add content here.
 
 ## Team Member: Jeevan Reddy Mure
