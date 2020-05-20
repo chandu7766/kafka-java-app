@@ -17,5 +17,5 @@ I worked as a individual. I have written my own code for consumer and producer. 
 
 ## Team Member: RethimaReddy Polam
 [Rethima's Profile link](https://github.com/Rethima-Reddy)</br>
-I have worked as individual in Kafka Java Apps 2 assignment. I have created a repository and written my custom producer and consumer files. When you run my application as comsumer, they will get a message sent from producer stating the types of pizza's present in their store.
-[Link to my repo](https://github.com/Rethima-Reddy/kafka-example)
+I have worked as individual in Kafka Java Apps 2 assignment. I have created a repository and written my custom producer and consumer files. When you run my application as comsumer, they will get a message sent from producer stating the types of pizza's present in their store. Link to my repo is below.
+[https://github.com/Rethima-Reddy/kafka-example](https://github.com/Rethima-Reddy/kafka-example)
