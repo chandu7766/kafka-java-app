@@ -4,8 +4,9 @@
 [My Profile link](https://github.com/saichandugampa)
 
 ## Team Member:  Satishkumar Mandapalli
-I worked as a individual. You can my custome producer in consumer in my repo.
-[Link to my Repo](https://github.com/mandapallisatish64/kafka-producer-consumer)
+I worked as a individual. I have written my own code for consumer and producer. My Consumer would return the reversed string when the string is passed from my custom producer.Here is the link to my repo:
+
+[https://github.com/mandapallisatish64/kafka-producer-consumer](https://github.com/mandapallisatish64/kafka-producer-consumer)
 ## Team Member:  Jeevan Reddy Mure
 [My profile link](https://github.com/jeevanreddymure)
 
