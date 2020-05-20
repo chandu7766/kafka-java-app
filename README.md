@@ -14,6 +14,8 @@ I worked as a individual. I have written my own code for consumer and producer. 
 [https://github.com/mandapallisatish64/kafka-producer-consumer](https://github.com/mandapallisatish64/kafka-producer-consumer)
 ## Team Member:  Jeevan Reddy Mure
 [My profile link](https://github.com/jeevanreddymure)
+I worked indivisual on this assignment myconsumer will say heelo to people
+[https://github.com/jeevanreddymure/kafka-java-app](https://github.com/jeevanreddymure/kafka-java-app)
 
 ## Team Member: RethimaReddy Polam
 [Rethima's Profile link](https://github.com/Rethima-Reddy)</br>
